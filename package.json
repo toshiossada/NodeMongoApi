@@ -20,7 +20,7 @@
     "body-parser": "^1.17.2",
     "cep-promise": "^2.0.8",
     "cors": "^2.8.4",
-    "express": "^4.15.4",
+    "express": "^4.17.3",
     "mongoose": "^4.11.10",
     "morgan": "^1.8.2",
     "braces": ">=2.3.1"
