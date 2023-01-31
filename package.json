@@ -21,7 +21,7 @@
     "cep-promise": "^2.0.8",
     "cors": "^2.8.4",
     "express": "^4.15.4",
-    "mongoose": "^4.11.10",
+    "mongoose": "^5.13.15",
     "morgan": "^1.8.2",
     "braces": ">=2.3.1"
   }
